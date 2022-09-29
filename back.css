@@ -1,0 +1,11 @@
+.banner {
+  background: url(https://wallpaperaccess.com/full/307140.jpg) no-repeat center;
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
+
+.about {
+  padding-top: 20%;
+  padding-bottom: 20%;
+}
